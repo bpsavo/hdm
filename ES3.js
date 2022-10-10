@@ -6,13 +6,13 @@ function fibonacci(n){
     }
 }
 
-function print_n_fibonacci(n){
+function es3_print_n_fibonacci(n){
     for(let i = 0; i<n; i++) {
         console.log(fibonacci(i));
     }
 }
 
-print_n_fibonacci(6);
+es3_print_n_fibonacci(6);
 
 /*
 0
